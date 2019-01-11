@@ -1,0 +1,16 @@
+#dangnhap{
+	display: block;
+	background: white;
+}
+#dangnhap .btn:hover{
+	background: #528B8B;
+	color: white;
+}
+#dangnhap .btn{
+	border:blue solid 1px;
+	background: white;
+	color: black;
+	height: 50px;
+	font-weight: bold;
+	border-radius: 10px;
+}

@@ -1,0 +1,24 @@
+{
+	"folders":
+	[
+		{
+			"path": "D:\\Xampp\\htdocs\\Mylaravel"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "."
+
+		},
+		{
+			"path": "C:\\Users\\AS\\Desktop\\shopthoitrang\\shopthoitrang"
+		},
+		{
+			"path": "D:\\Xampp\\htdocs\\TLCN-BanHang"
+		}
+	],
+	 "settings": {
+        "xdebug": {
+             "url": "http://my.local.website/",
+        }
+    }
+}

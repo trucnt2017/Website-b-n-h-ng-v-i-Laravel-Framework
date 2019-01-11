@@ -1,0 +1,857 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Produc",
+				"Products"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"Pro",
+				"Product_detail"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"Lo",
+				"Loaitin"
+			],
+			[
+				"tin",
+				"tintuc"
+			],
+			[
+				"Tin",
+				"Tintuc"
+			],
+			[
+				"id",
+				"idTheLoai"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"rede",
+				"redirect"
+			],
+			[
+				"The",
+				"Theloai"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"Loa",
+				"loaitin"
+			],
+			[
+				"da",
+				"danhsach"
+			],
+			[
+				"the",
+				"theloai"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"th",
+				"theloai"
+			],
+			[
+				"ba",
+				"base\tTag"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"My",
+				"MyController"
+			],
+			[
+				"post",
+				"postForm"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"request",
+				"Request"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/Layout/index/mostviewproduct.blade.php",
+			"settings":
+			{
+				"buffer_size": 4472,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/Layout/index/singleproduct.blade.php",
+			"settings":
+			{
+				"buffer_size": 24864,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/User.php",
+			"settings":
+			{
+				"buffer_size": 790,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/HomeController.php",
+			"settings":
+			{
+				"buffer_size": 1487,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Context",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Watch",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Stack",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Breakpoint",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 215.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Xampp/htdocs/TLCN-BanHang",
+		"/D/Xampp/htdocs/TLCN-BanHang/app",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Http",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Http/Controllers",
+		"/D/Xampp/htdocs/TLCN-BanHang/public",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/index",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/public",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/public/pages",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/resources",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/resources/views",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/resources/views/pages"
+	],
+	"file_history":
+	[
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Comment.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Products.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/User.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Http/Controllers/HomeController.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/resources/views/pages/singleproduct.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/forder.sublime-project",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/index/singleproduct.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/.gitignore",
+		"/D/Xampp/htdocs/TLCN-BanHang/.env.example",
+		"/D/Xampp/htdocs/TLCN-BanHang/.env",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/layout exam/single.html",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/index/content.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/index/newproducts.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/routes/web.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/routes/web.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/resources/views/pages/newproducts.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/index/mostviewproduct.blade.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/resources/views/pages/MostView.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/index/test.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Categorys.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Product_details.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/index/topbrands.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/index/product.blade.php",
+		"/D/Xampp/htdocs/Chatapp/server_node/server.js",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Http/Controllers/RedisController.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Events/RedisEvent.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Messages.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/config/broadcasting.php",
+		"/D/Xampp/htdocs/Chatapp/app/Http/Controllers/RedisController.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/index/chatbox.blade.php",
+		"/D/Xampp/htdocs/Chatapp/resources/views/chat.blade.php",
+		"/D/Xampp/htdocs/Chatapp/app/Events/RedisEvent.php",
+		"/D/Xampp/htdocs/Chatapp/routes/web.php",
+		"/D/Xampp/htdocs/Chatapp/.env",
+		"/D/Xampp/htdocs/Chatapp/app/Messages.php",
+		"/D/Xampp/htdocs/Chatapp/config/broadcasting.php",
+		"/D/Xampp/htdocs/Chatapp/config/database.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/config/broadcasting.php",
+		"/D/Xampp/htdocs/Chatapp/database/migrations/2018_10_04_152201_create_messages_table.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Http/Controllers/ProductController.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/layout/menu.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/vendor/symfony/console/Input/Input.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/vendor/symfony/console/Input/Input.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/vendor/laravel/framework/src/Illuminate/Support/Facades/Input.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/vendor/laravel/framework/src/Illuminate/Support/Facades/Input.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/products/add.blade.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/vendor/symfony/http-foundation/File/UploadedFile.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/app/Http/Requests/ProductRequest.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/vendor/symfony/http-foundation/File/UploadedFile.php",
+		"/D/Xampp/htdocs/Mylaravel/vendor/symfony/http-foundation/File/UploadedFile.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/app/Product.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/products/edit.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Product_images.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/products/details.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/products/list.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/cats/add.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Http/Controllers/UserController.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Http/Controllers/CatsController.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/cats/list.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/cats/edit.blade.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/app/Http/Requests/LoginRequest.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/resources/views/admin/cats/edit.blade.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/public/admin/js/ckeditor/ckeditor.js",
+		"/D/Xampp/htdocs/TLCN-BanHang/composer.json",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/composer.json",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Myfunction/function.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/app/Mylibrary/functions.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/app/Http/Controllers/CatController.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/app/Http/Controllers/UserController.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/app/UserDetail.php",
+		"/D/Xampp/htdocs/Mylaravel/resources/views/admin/theloai/theme.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/users/edit.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/users/details.blade.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/resources/views/admin/users/edit.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/users/list.blade.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/resources/views/admin/users/details.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/users/add.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/UserDetail.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/app/Http/Controllers/ProductController.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/resources/views/admin/users/list.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/layout/errors.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/layout/footer.blade.php",
+		"/C/Users/AS/Desktop/shopthoitrang/shopthoitrang/.env",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/layout/header.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Http/Controllers/Controller.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Http/Controllers/DressController.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/layout/index.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/User_details.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/users.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/app/Http/Controllers/user.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin/layout",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/admin",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/about/about.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/index/header.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/about/about.blade.html",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/index/contain.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/dress/dress.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/checkout/checkout.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/login/dialog.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/checkout",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/index/about.blade.php",
+		"/D/Xampp/htdocs/Mylaravel/routes/web.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/Layout/index/index.blade.php",
+		"/D/Xampp/htdocs/TLCN-BanHang/resources/views/layout",
+		"/D/Xampp/htdocs/Mylaravel/app/Slide.php",
+		"/D/Xampp/htdocs/Mylaravel/app/Loaitin.php",
+		"/D/Xampp/htdocs/Mylaravel/resources/views/admin/loaitin/danhsach.blade.php",
+		"/D/Xampp/htdocs/Mylaravel/app/Comment.php",
+		"/D/Xampp/htdocs/Mylaravel/resources/views/admin/slide/theme.blade.php",
+		"/D/Xampp/htdocs/Mylaravel/app/Http/Controllers/SlideController.php",
+		"/D/Xampp/htdocs/Mylaravel/resources/views/admin/layout/header.blade.php",
+		"/D/Xampp/htdocs/Mylaravel/resources/views/admin/layout/menu.blade.php",
+		"/D/Xampp/htdocs/Mylaravel/resources/views/admin/user/danhsach.blade.php",
+		"/D/Xampp/htdocs/Mylaravel/resources/views/admin/tintuc/theme.blade.php",
+		"/D/Xampp/htdocs/Mylaravel/resources/views/admin/user/sua.blade.php",
+		"/D/Xampp/htdocs/Mylaravel/resources/views/admin/user/theme.blade.php",
+		"/D/Xampp/htdocs/Mylaravel/resources/views/admin/login.blade.php",
+		"/D/Xampp/htdocs/Mylaravel/app/Http/Controllers/Controller.php",
+		"/D/Xampp/htdocs/Mylaravel/app/Http/Middleware/AdminLoginMiddeleware.php",
+		"/D/Xampp/htdocs/Mylaravel/app/Http/Controllers/UserController.php",
+		"/D/Xampp/htdocs/Mylaravel/resources/views/admin/slide/danhsach.blade.php",
+		"/D/Xampp/htdocs/Mylaravel/app/Http/Controllers/TheLoaiController.php",
+		"/D/Xampp/htdocs/Mylaravel/app/Http/Controllers/UserCOntroller.php",
+		"/D/Xampp/htdocs/Mylaravel/resources/views/admin/tintuc/sua.blade.php",
+		"/D/Xampp/htdocs/Mylaravel/resources/views/admin/slide/sua.blade.php",
+		"/D/Xampp/htdocs/Mylaravel/app/Http/Controllers/TinTucController.php",
+		"/D/Xampp/htdocs/Mylaravel/resources/views/admin/tintuc/danhsach.blade.php",
+		"/D/Xampp/htdocs/Mylaravel/app/Http/Controllers/AjaxController.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Reviews",
+			"flexslider",
+			"endforeach",
+			"myModal2",
+			"new",
+			"sản phẩm mới",
+			"Sản phẩm mới",
+			"functions.php",
+			"functions",
+			"dresses.html",
+			"Clothing",
+			"3",
+			"dress",
+			"src",
+			"href",
+			"src",
+			"Don't Wait, Login now!",
+			"sign",
+			"modal-dialog modal-lg",
+			"header",
+			"banner",
+			"baner",
+			"demo",
+			"tintuc",
+			">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/Layout/index/mostviewproduct.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3722,
+								3722
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 880.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/Layout/index/singleproduct.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6908,
+								6908
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2969.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/User.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 160.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Http/Controllers/HomeController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1426,
+								1426
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.924585218703,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "forder.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"14":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"15":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"23":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"47":
+				{
+					"group": 0,
+					"index": 2
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 388.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
